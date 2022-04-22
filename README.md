@@ -24,7 +24,7 @@
 | -------- | ------- | :---: | -------- |
 | Catalina | 10.15.7 |   x     |          |
 | Big Sur  | 11.6.5  |   x     |          |
-| Monterey | 12.x.y  |   ?     | Untested |
+| Monterey | 12.x.y  |   ?     | Untested |
 
 ### Components
 
@@ -44,11 +44,11 @@
 | Bluetooth          |   x   |                                                                                                         |
 | Webcam             |   x   |                                                                                                         |
 | SD card reader     |   ~   | `Sinetek-rtsx.kext` disabled in `config.plist`. Works but has sleep/wake issues, see repo for more info |
-| Smartcard reader   |   -   |                                                                                                         |
+| Smartcard reader   |   -   |                                                                                                         |
 | Fingerprint reader |   -   |                                                                                                         |
 | Battery            |   x   |                                                                                                         |
 | Power Management   |   x   |                                                                                                         |
-| CPU temperature monitoring | x |                                                                                                         |
+| CPU temperature monitoring | x |                                                                                                     |
 | Docking station    |   ~   | Partially working, for details see below                                                                |
 
 ### HP UltraSlim docking station
